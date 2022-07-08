@@ -12,5 +12,3 @@ Twilio gem to have application send alerts via email/text when certain dates are
 
 Reasearching how to set up many to many relasionships in Ruby https://medium.com/@pk60905/many-to-many-relationship-in-rails-cf86e12db8b0
 
-
-
