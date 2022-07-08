@@ -9,3 +9,5 @@ Streatch goal user can input each menu item that sells a food product and decrem
 This stack overflow shows how to do date subtraciton in Ruby https://stackoverflow.com/questions/5171102/ruby-date-subtraction-e-g-90-days-ago
 
 Twilio gem to have application send alerts via email/text when certain dates are hit (streatch goal) https://github.com/twilio/twilio-ruby
+
+Reasearching how to set up many to many relasionships in Ruby https://medium.com/@pk60905/many-to-many-relationship-in-rails-cf86e12db8b0
